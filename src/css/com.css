@@ -1,0 +1,107 @@
+
+.app{
+    width: 100%;
+    height: 100%;
+}
+.main{
+    width: 100%;
+    height: 100%;
+    background: #9ff;
+}
+.img{
+    width: 30px;
+    height: 30px;
+}
+.icons{
+    width: 20px;
+    height: 26px;
+}
+.flex{
+    display: flex;
+}
+.flex1{
+   flex: 1;
+}
+.center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.justify-content{
+    display: flex;
+    justify-content: center;
+}
+.bgColorMain{
+    background: #FAD51B;
+}
+.bgColorWhite{
+    background: "#FFFFFF";
+}
+.bgColorRed{
+    background: red;
+}
+.marginLeft{
+    margin-left: 10px;
+}
+.marginTop{
+    margin-top: 10px;
+}
+.margin{
+    margin: 10px;
+}
+
+.border{
+    border: 1px solid #cccccc;
+}
+.borderColorWhite{
+    border-color: white;
+}
+.borderRadius{
+    border-radius: 10px;
+}
+.smallBorderRadius{
+    border-radius: 5px;
+}
+.border_bottom{
+    border-bottom: 1px solid #ccc;
+}
+.flex_end{
+    display: flex;
+    justify-content: flex-end;
+}
+.align_items{
+    display: flex;
+    align-items: center;
+}
+.left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.space_around{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.space_between{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.font_white{
+    color: #fff;
+}
+.font_black{
+    color: #000;
+}
+.font_Size{
+    font-size: 22px;
+}
+.font_color{
+    color: #000;
+}
